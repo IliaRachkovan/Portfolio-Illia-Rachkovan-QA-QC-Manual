@@ -1,0 +1,17 @@
+body{
+	display: flex;
+	justify-content: center;
+	}
+	
+.full{
+	display: grid;
+	grid-template-columns: auto 500px 1000px auto;
+	width: 50%;
+}
+
+.left{
+	padding: 20px;
+}
+.right{
+	padding: 20px;
+}
